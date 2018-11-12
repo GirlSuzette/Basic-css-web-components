@@ -1,0 +1,39 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 40px;
+}
+
+ul{
+    list-style:none;
+    display: flex;
+}
+
+.top-bar{
+    color: white;
+    background-color: #004;
+}
+.top-bar li{
+    padding: 10px 50px 11px 50px;
+    width: 25%;
+}
+.negritas{
+    font-weight: bold;
+}
+.colorgray{
+    color: gray;
+    margin-top: -15px;
+}
+
+.articulo{
+    display: flex;
+    width: 100%;
+}
+.item-art{
+    width: 25%;
+    padding: 0px 0px 0px 55px;
+}
+.link{
+    color: #DE5233;
+    font-weight: bold;
+    font-size: 90%;
+}

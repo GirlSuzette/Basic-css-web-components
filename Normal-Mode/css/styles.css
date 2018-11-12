@@ -1,0 +1,22 @@
+body{
+  font-family: Georgia, Palatino, serif;
+  line-height: 1.25;
+  background-color: #FBF9F1;
+  margin: 100px 100px 50px 150px; 
+}
+
+.container{
+  height: 700px;
+  width: 45%;
+  padding: 30px;
+}
+
+.ColorBlue{
+  color: #77A8D2;
+}
+
+.sombra{
+  background-color: black;
+  color: white;
+}
+

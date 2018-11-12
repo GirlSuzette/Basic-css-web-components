@@ -1,0 +1,44 @@
+.menu{
+    font-family: 'Avenir', 'Gill Sans', sans-serif;
+}
+
+ul{
+    list-style:none;
+}
+.Verde{
+    color: #66CC99;
+    border: 1px solid #c1c1c1;
+    height: 30px; 
+    width: 200px;
+    padding: 3px 0px 0px 20px;
+    border-bottom: none;
+}
+.Cont{
+    border: 1px solid #c1c1c1;
+    height: 30px; 
+    width: 200px;
+    padding: 3px 0px 0px 20px;
+    border-bottom: none;
+}
+.Abu{
+    border: 1px solid #c1c1c1;
+    height: 30px;
+    width: 200px;
+    padding: 3px  0px 0px 20px;
+    border-bottom: none;
+}
+
+.Par{
+    border: 1px solid #c1c1c1;
+    height: 30px;
+    width: 200px;
+    padding: 3px 0px 0px 20px;
+    border-bottom: none;
+}
+
+.Curr{
+    border: 1px solid #c1c1c1;
+    height: 30px;
+    width: 200px;
+    padding: 3px 0px 0px 20px;
+}
